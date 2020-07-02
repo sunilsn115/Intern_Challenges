@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "name": "sunil", "password": "sunil115" },
+    { "name": "vikash", "password": "vikash115" },
+    { "name": "tharun", "password": "tharun115" },
+    { "name": "swapnil", "password": "swapnil115" }
+  ]
+}

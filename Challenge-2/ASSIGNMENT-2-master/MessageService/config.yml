@@ -1,0 +1,12 @@
+server:
+  port: ":8080"
+
+Brokers: "localhost:19092,localhost:29092,localhost:39092" 
+Topic: "email"
+MessageKey: "message"
+LevelKey: "level"
+TimeKey: "time"
+CallerKey: "caller"
+database: "email"
+collection: "db1,db2,db3"
+GroupName: "sms"

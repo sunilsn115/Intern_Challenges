@@ -1,0 +1,68 @@
+
+
+#DetailsPageMain{
+
+  margin-top: 5%;
+  padding-top: 1%;
+
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-bottom: 10%;
+  padding-left: 2%;
+  padding-right: 2%;
+  -webkit-box-shadow: 6px 4px 45px -4px rgba(0,0,0,0.75);
+
+-moz-box-shadow: 6px 4px 45px -4px rgba(0,0,0,0.75);
+box-shadow: 6px 4px 45px -4px rgba(0,0,0,0.75);
+-webkit-border-radius: 12px 12px 12px 12px;
+-moz-border-radius: 12px 12px 12px 12px;
+border-radius: 12px 12px 12px 12px;
+  }
+
+
+  #genderElement{
+    margin-bottom: 2%;
+    margin-top: 4%;
+  }
+#DetailsPageHeading{
+    margin: 0em;
+    padding: 1%;
+    font-weight: bolder;
+    text-align: left;
+    margin-left: 4%;
+   line-height: 1.9;
+   margin-top: 0%;
+  }
+  
+  #cus{
+    width:60px;
+    height:60px;
+    float: left;
+    margin-right: 3%;
+  }
+  
+  .header{
+  
+    text-align: center;
+    margin-top: 10%
+  }
+  
+#DetailsPageCaption{
+
+  color: green;
+ 
+}
+
+
+  
+  .GenderEdit{
+    font-size: 20px;
+  }
+  
+  
+  #submitButton{
+    margin-top: 5%;
+    background-color: green;
+  }
+  
+  

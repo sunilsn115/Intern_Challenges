@@ -1,0 +1,87 @@
+.default-text {
+  color: green;
+}
+.Tap {
+  background-color: green !important;
+}
+#loginLogo {
+  display: block;
+  width: 60px;
+  height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+}
+#signInHeading {
+  text-align: center;
+}
+
+#LoginPageMain {
+  vertical-align: middle;
+  padding-top: 1%;
+  margin-top: 4%;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-bottom: 10%;
+  padding-left: 2%;
+  padding-right: 2%;
+  -webkit-box-shadow: 6px 4px 45px -4px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 6px 4px 45px -4px rgba(0, 0, 0, 0.75);
+  box-shadow: 6px 4px 45px -4px rgba(0, 0, 0, 0.75);
+  -webkit-border-radius: 12px 12px 12px 12px;
+  -moz-border-radius: 12px 12px 12px 12px;
+  border-radius: 12px 12px 12px 12px;
+}
+
+#LoginPageButton {
+  margin-top: 3%;
+}
+
+.heading {
+  margin: 0em;
+  padding: 1%;
+  font-weight: bolder;
+  text-align: left;
+  margin-left: 2%;
+  margin-right: 2%;
+  line-height: 1.9;
+  margin-top: 3%;
+}
+
+#cus {
+  width: 60px;
+  height: 60px;
+  float: left;
+  margin-right: 3%;
+}
+
+.header {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.App {
+  margin-top: 0%;
+  margin-left: 2%;
+  margin-right: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1%;
+  vertical-align: middle;
+  padding-bottom: 5%;
+}
+
+.GenderEdit {
+  font-size: 20px;
+}
+
+#submitButton {
+  margin-top: 3%;
+}
+
+/* dark mode css */
+.main-dark{
+  background-color:azure;
+
+}

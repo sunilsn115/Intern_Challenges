@@ -1,0 +1,80 @@
+
+#DocsMain{
+    width:100%;
+    background-color:white;
+}
+#PageContainer{
+      background-color: ivory;
+      width: initial;
+    padding-top: 2%;
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+
+
+  
+
+
+
+
+#DocsBox{
+    
+    background-color: white;
+    padding-top: 4%;
+    margin-top: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    padding-bottom: 5%;
+
+
+-webkit-box-shadow: 6px 4px 45px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px 4px 45px -4px rgba(0,0,0,0.75);
+box-shadow: 6px 4px 45px -4px rgba(0,0,0,0.75);
+-webkit-border-radius: 12px 12px 12px 12px;
+-moz-border-radius: 12px 12px 12px 12px;
+border-radius: 12px 12px 12px 12px;
+
+
+}
+#StrongText{
+    color: green;
+}
+div{
+    color:black;
+}
+
+#FinalPageHeading{
+  margin-top: 1%;
+  margin-bottom: 2%;
+}
+
+#DocsHeading{
+    margin-top: 2%;
+
+    font-size: 20px;
+    color: green;
+}
+
+#DocsSelfieHeading{
+
+    font-size: 25px;
+}
+
+hr{
+    color: green;
+}
+
+
+
+  #DocsImage{
+    border-radius:16px;
+    -moz-border-radius:16px;
+    -webkit-border-radius:16px;
+    margin-top: 10px;
+  }
+
+#FinalPageSubmit{
+  width:80%;
+  margin-top: 4%;
+}
